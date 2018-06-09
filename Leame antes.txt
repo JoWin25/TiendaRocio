@@ -1,0 +1,19 @@
+# Tienda Rocío
+Es un sistema de Inventario y Ventas de proposito general desarrollado con PHP y MySQL.
+
+## Modulos
+- Productos
+- Categorias
+- Caja
+- Clientes
+- Proveedores
+- Inventario
+- Usuarios
+
+# Nota:
+Para ingresar al sistema el usuario es: JoWin y la contraseña es: jowin1992, recuerda que si quieres cambiar la contraseña o usuario te recomiendo hacerlo dentro del sistema ya que si lo haces desde la base de datos no te dejar entrar ya que esta encriptado y por eso te sugiero hacer los cambios de usuario y contraseña una vez en el sistema.
+
+
+Si quieres cambiar el nombre de la base de datos te recomiendo igualmente cambiar el nombre tambien donde
+se estara conectado para ello tendras que irte: TiendaRocio/core/controller/forms/Database.php
+una vez estando ahi deberas hacer los cambios correspondientes segun tu gusto.
